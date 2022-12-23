@@ -10,6 +10,16 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+
+/Netcode.Gameobjects.Test/Build/
+/Netcode.Gameobjects.Test/Library/
+/Netcode.Gameobjects.Test/Logs/
+/Netcode.Gameobjects.Test/obj/
+/Netcode.Gameobjects.Test/Temp/
+/Netcode.Gameobjects.Test/Thirdpart/
+/Netcode.Gameobjects.Test/*.csproj/
+/Netcode.Gameobjects.Test/*.sln/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
